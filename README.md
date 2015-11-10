@@ -13,4 +13,4 @@ Completed:
 * [] Optional: Using locale-specific currency and currency thousands separators.
 * [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-![My image](konnguyen.github.com/CalculatorTip/img/image.gif)
+![My image](img/image.gif)
